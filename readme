@@ -1,0 +1,8 @@
+This project is first attempt create Conway's Game of Life using Python
+
+To do:
+1. create_world() - function will create nested 2D array for world
+2. init_world() - function will set random 0 or 1 into array
+2. print_console_world() - function will print or render our array on screen
+3. count_neighbours() - function will count 3x3 matrix for living neighbours
+4. main() - main cycle for simulation
